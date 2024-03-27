@@ -16,7 +16,9 @@ main()
 
     
     
-'''     
+'''   
+    my original idea:
+    
     with open('./books/frankenstein.txt') as f:
         file_contents = f.read()
         count = 0
